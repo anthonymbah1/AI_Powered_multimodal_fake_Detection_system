@@ -1,0 +1,17 @@
+# Ignore model files and checkpoints
+*.pth
+*.pt
+*.safetensors
+*.bin
+*.ckpt
+
+# Ignore all files in Models folder
+Models/
+
+# Ignore Python/OS-specific files
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+.env
+*.env
+
